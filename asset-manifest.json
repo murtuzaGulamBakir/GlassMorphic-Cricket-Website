@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GlassMorphic-Cricket-Website/static/css/main.df1af51d.css",
+    "main.js": "/GlassMorphic-Cricket-Website/static/js/main.2145a56e.js",
+    "static/media/png": "/GlassMorphic-Cricket-Website/static/media/725e29b112f241f223437fbe8d0d299b.fa92a1fbc9c52be04850.png",
+    "index.html": "/GlassMorphic-Cricket-Website/index.html",
+    "main.df1af51d.css.map": "/GlassMorphic-Cricket-Website/static/css/main.df1af51d.css.map",
+    "main.2145a56e.js.map": "/GlassMorphic-Cricket-Website/static/js/main.2145a56e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1af51d.css",
+    "static/js/main.2145a56e.js"
+  ]
+}
